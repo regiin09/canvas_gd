@@ -9,6 +9,8 @@ using UnityEngine.UI;
 public class Scene1 : MonoBehaviour
 {
     // Start is called before the first frame update
+    //hi hi
+    //csd kec
     public Text tt;
     public Text inp;
     void Start()
